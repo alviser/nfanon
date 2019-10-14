@@ -1,5 +1,5 @@
 # nfanon
-A simple Netflow anonimyzer
+A simple Netflow anonymizer
 
 This is a really simple tool to anonymize Netflow CSV flows while preserving IPs corrispondence (i.e. different flows that originate from the same IP in the original CSV will still originate from the same anonymized IP after the script has done its job).
 
